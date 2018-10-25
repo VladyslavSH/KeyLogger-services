@@ -1,0 +1,6 @@
+C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.exe.config
+C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.exe
+C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.pdb
+C:\KeyLoggerPureEvil\KeyLoggerPureEvil\obj\Debug\KeyLoggerPureEvil.csprojResolveAssemblyReference.cache
+C:\KeyLoggerPureEvil\KeyLoggerPureEvil\obj\Debug\KeyLoggerPureEvil.exe
+C:\KeyLoggerPureEvil\KeyLoggerPureEvil\obj\Debug\KeyLoggerPureEvil.pdb

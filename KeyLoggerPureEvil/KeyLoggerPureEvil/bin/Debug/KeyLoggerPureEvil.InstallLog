@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.exe
+   logfile = C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.InstallLog
+Устанавливается служба ServiceMod...
+Служба ServiceMod успешно установлена.
+Создается исходный EventLog ServiceMod в журнале Application...
+Выполняется фиксация сборки 'C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.exe
+   logfile = C:\KeyLoggerPureEvil\KeyLoggerPureEvil\bin\Debug\KeyLoggerPureEvil.InstallLog
